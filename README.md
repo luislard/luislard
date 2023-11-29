@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m in constant learning:
+
+Currently, I am reading:
+- Patterns of Enterprise Application Architecture
+
+Lately, I have read:
+1. The manager's path: A Guide for tech leaders navigating growth & change
+2. Domain-Driven Design - Tackling Complexity in the Heart of Software
+3. DDD Distilled
+4. Clean Architecture
+5. Clean Code
+6. The Clean Architecture in PHP
+
+
+
